@@ -8,6 +8,11 @@ I would like to recommend you to visit w3schools.com once to learn everything li
 
 this repo will help you while preparing for interviews
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+I have attached a text file pls utilize it by creating a db in SSMS or try to use in SQLfiddle
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 1. From the following table, write a SQL query to find the name and year of the movies. Return movie title, movie release year.
