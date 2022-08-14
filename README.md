@@ -486,3 +486,5 @@ FROM actor
 WHERE act_fname = 'Woody' AND act_lname = 'Allen';
 
 
+
+I will add more excercises as per the schedule
